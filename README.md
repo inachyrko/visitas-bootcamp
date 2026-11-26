@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Probando, otra prueba, y última
-
-=======
->>>>>>> 4c7350248d2e65ea07e1ea37323f48c08fd32afc
 # Visitas y conversiones · Bootcamp Data Analyst
 
 Proyecto de prácticas de **Git y GitHub**. Los datos son **100 % sintéticos**.
