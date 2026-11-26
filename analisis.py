@@ -1,5 +1,7 @@
 """KPI de ejemplo para las prácticas de Git y GitHub.
 
+Cálculo de tasa de conversión
+
 Sólo usa módulos de la librería estándar de Python.
 """
 
