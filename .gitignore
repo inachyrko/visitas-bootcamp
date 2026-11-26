@@ -1,0 +1,15 @@
+# Entorno de trabajo local
+.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+# Credenciales/secretos
+.env
+.env.*
+!.env.example
+*.pem
+# Datos sin autorización: NUNCA incluir raw real
+private/
+datos/privados/
+# No ignorar datos sintéticos del ejercicio
