@@ -1,8 +1,12 @@
 """KPI de ejemplo para las prácticas de Git y GitHub.
 
+<<<<<<< HEAD
 Cálculo de tasa de conversión
 
 Sólo usa módulos de la librería estándar de Python.
+=======
+Solo usa módulos de la librería estándar de Python.
+>>>>>>> 4c7350248d2e65ea07e1ea37323f48c08fd32afc
 """
 
 import csv
@@ -27,3 +31,7 @@ print("=== Informe de visitas ===")
 print(f"Visitas: {visitas}")
 print(f"Conversiones: {conversiones}")
 print(f"Tasa de conversion: {tasa:.1f}%")
+<<<<<<< HEAD
+=======
+print("Informe de visitas hecho")
+>>>>>>> 4c7350248d2e65ea07e1ea37323f48c08fd32afc

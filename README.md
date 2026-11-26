@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Probando, otra prueba, y última
 
+=======
+>>>>>>> 4c7350248d2e65ea07e1ea37323f48c08fd32afc
 # Visitas y conversiones · Bootcamp Data Analyst
 
 Proyecto de prácticas de **Git y GitHub**. Los datos son **100 % sintéticos**.
@@ -32,7 +35,11 @@ No se requieren paquetes externos. El código utiliza la librería estándar de 
 ## Lista de participantes
 
 Añade aquí tu nombre mediante una rama y una pull request.
+<<<<<<< HEAD
 
+=======
+cambi de linea
+>>>>>>> 4c7350248d2e65ea07e1ea37323f48c08fd32afc
 ## Preguntas para la revisión
 
 1. ¿Es correcto el numerador y el denominador?
