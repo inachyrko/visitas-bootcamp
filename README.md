@@ -2,6 +2,9 @@
 
 # Visitas y conversiones · Bootcamp Data Analyst
 
+-*Conceptos basicos:*
+## Definición de KPI de conversion : es un número que te dice si algo va bien o mal respecto a un objetivo. El KPI de conversión, o tasa de conversión, mide qué porcentaje de las personas que ven algo acaban haciendo la acción que tú quieres.
+
 Proyecto de prácticas de **Git y GitHub**. Los datos son **100 % sintéticos**.
 
 ## Pregunta de negocio
