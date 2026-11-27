@@ -1,3 +1,4 @@
+# el kpi es la prima de la metrica
 *Un KPI (Key Performance Indicator, o indicador clave de rendimiento) es una medida cuantificable que evalúa el progreso o el éxito de una empresa, proyecto, equipo o proceso frente a un objetivo específico.*
 
 # Visitas y conversiones · Bootcamp Data Analyst
@@ -35,11 +36,7 @@ No se requieren paquetes externos. El código utiliza la librería estándar de 
 ## Lista de participantes
 
 Añade aquí tu nombre mediante una rama y una pull request.
-<<<<<<< HEAD
 
-=======
-cambi de linea
->>>>>>> 4c7350248d2e65ea07e1ea37323f48c08fd32afc
 ## Preguntas para la revisión
 
 1. ¿Es correcto el numerador y el denominador?
