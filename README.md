@@ -1,3 +1,5 @@
+*Un KPI (Key Performance Indicator, o indicador clave de rendimiento) es una medida cuantificable que evalúa el progreso o el éxito de una empresa, proyecto, equipo o proceso frente a un objetivo específico.*
+
 # Visitas y conversiones · Bootcamp Data Analyst
 
 Proyecto de prácticas de **Git y GitHub**. Los datos son **100 % sintéticos**.
@@ -40,3 +42,6 @@ cambi de linea
 1. ¿Es correcto el numerador y el denominador?
 2. ¿Los datos permiten medir conversiones por persona o solo por visita?
 3. ¿Qué archivos han cambiado en la pull request?
+
+
+
